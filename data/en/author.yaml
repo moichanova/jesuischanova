@@ -1,0 +1,16 @@
+# some information about you
+name: "Chanel Genova"
+nickname: "Chanel"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/avataaars.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "chagenov@gmail.com"
+  phone: "+32498529527"
+
+# some summary about what you do
+summary:
+  - Web snoop
+  - Curious mind
+  - Alternatives lover
