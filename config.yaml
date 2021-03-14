@@ -25,6 +25,10 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/moichanova/jesuischanova
+  
+  # choose background
+  background: /images/default-background.jpg
+  
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
 
