@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Information and Communication Bachelor
+  icon: fa-university
+  timeframe: 2014-2017
+  institution:
+    name: Université de Liège
+    url: "https://www.uliege.be/"
+- name: Sciences and Technologies of Information and Communication Master
+  icon: fa-graduation-cap
+  timeframe: 2017-2019
+  institution:
+    name: Université Libre de Bruxelles
+    url: "https://www.ulb.be/"
