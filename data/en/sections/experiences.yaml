@@ -11,32 +11,46 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: SOCIALware
+    url: "https://www.socialware.be/fr"
+    location: From Brussels to Benelux
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: SOCIALware (from TechSoup Global) is a nonprofit (NP) helping others NPs with the technology they need to achieve their mission.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Digital Strategist
+    start: September 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Communication
+    - Partnerships
+    - Strategy
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Fabernovel
+    url: "https://fabernovel.fr/en"
+    location: From Paris to the world
+    overview:   Fabernovel is a global innovation agency crafting the future internationally.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Intern Junior Content Manager
+    start: January 2020 
+    end: July 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Content Production
+    - Digital Learning
+    - Learning Management Systems
+    
+- company:
+    name: Caféine.Studio
+    url: "https://cafeine.studio/"
+    location: Brussels, BE
+    overview:   Caféine.Studio designs digital learning experiences (not just about e-learning).
+  positions:
+  - designation: Intern Learning Experience Designer
+    start: October 2018
+    end: December 2018
+    responsibilities:
+    - UX Design and wireframing
+    - Contribution to an European report (Cedefop)
+    - Development and application of the Design Sprint Methodology adapted to education and training
