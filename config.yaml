@@ -21,7 +21,7 @@ markup:
 # Enable global emoji support
 enableEmoji: true
 
-googleAnalytics = "G-7LBK13Q07L"
+googleAnalytics: "G-7LBK13Q07L"
 
 # Site parameters
 params:
