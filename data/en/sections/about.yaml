@@ -7,16 +7,9 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
-designation: Digital Strategist
-# your company information
-company:
-  name: SOCIALware
-  url: "https://www.socialware.be/fr"
-
 
 # a summary about you
-summary: 'I am a content lover. I like to find the turn of phrase, the format that will engage curiosity and lead to the motivation to learn more.'
+summary: 'I studied communication and digital. I love to write, either it is with digital or with words to say.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

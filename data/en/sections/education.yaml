@@ -10,13 +10,13 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Information and Communication Bachelor
+- name: Bachelor in Information and Communication
   icon: fa-university
   timeframe: 2014-2017
   institution:
     name: Université de Liège
     url: "https://www.uliege.be/"
-- name: Sciences and Technologies of Information and Communication Master
+- name: Master in Sciences and Technologies of Information and Communication
   icon: fa-graduation-cap
   timeframe: 2017-2019
   institution:
