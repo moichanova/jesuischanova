@@ -33,6 +33,6 @@ softSkills:
 - name: Climber to be
   percentage: 60
   color: yellow
-- name: Present proof
-  percentage: 75
+- name: Spanish learner
+  percentage: 5
   color: green
